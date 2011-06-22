@@ -1,0 +1,4 @@
+ecrire CMakeLists.txt
+
+cmake --help
+cmake . -G"Unix Makefiles"
